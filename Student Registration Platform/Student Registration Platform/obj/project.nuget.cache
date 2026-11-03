@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuOCddSnk9k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\Student Registration Platform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobi Odetola\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\Tobi Odetola\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

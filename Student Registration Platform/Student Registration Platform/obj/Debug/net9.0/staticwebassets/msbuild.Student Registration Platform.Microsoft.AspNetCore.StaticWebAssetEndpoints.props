@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Student Registration Platform/css/Style.a62lhptvq9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a62lhptvq9"},{"Name":"integrity","Value":"sha256-vrymraDZhMHeDDLaiUNU/tnq8mm7\u002B3vHwfAT0YHXfOI="},{"Name":"label","Value":"_content/Student Registration Platform/css/Style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"681"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vrymraDZhMHeDDLaiUNU/tnq8mm7\u002B3vHwfAT0YHXfOI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Jun 2025 10:29:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Student Registration Platform/css/Style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vrymraDZhMHeDDLaiUNU/tnq8mm7\u002B3vHwfAT0YHXfOI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"681"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vrymraDZhMHeDDLaiUNU/tnq8mm7\u002B3vHwfAT0YHXfOI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 28 Jun 2025 10:29:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

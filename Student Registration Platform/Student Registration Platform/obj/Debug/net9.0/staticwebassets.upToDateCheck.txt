@@ -1,0 +1,2 @@
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\wwwroot\css\Style.css
+wwwroot\css\Style.css

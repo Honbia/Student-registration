@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "zZY87f7RqVdK+E7Gg0kVih4NOkA7UGCBKtvp7ZceNOY=",
+  "Source": "Student Registration Platform",
+  "BasePath": "_content/Student Registration Platform",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Student Registration Platform\\wwwroot",
+      "Source": "Student Registration Platform",
+      "ContentRoot": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\",
+      "BasePath": "_content/Student Registration Platform",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\obj\\Debug\\net9.0\\compressed\\2x1ogq2u7q-a62lhptvq9.gz",
+      "SourceId": "Student Registration Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Student Registration Platform",
+      "RelativePath": "css/Style#[.{fingerprint=a62lhptvq9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\css\\Style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cw67c7bejv",
+      "Integrity": "VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\css\\Style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\css\\Style.css",
+      "SourceId": "Student Registration Platform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\",
+      "BasePath": "_content/Student Registration Platform",
+      "RelativePath": "css/Style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a62lhptvq9",
+      "Integrity": "vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/Style.a62lhptvq9.css",
+      "AssetFile": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\obj\\Debug\\net9.0\\compressed\\2x1ogq2u7q-a62lhptvq9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002695417790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:29:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a62lhptvq9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Style.a62lhptvq9.css",
+      "AssetFile": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\css\\Style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:29:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a62lhptvq9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Style.a62lhptvq9.css.gz",
+      "AssetFile": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\obj\\Debug\\net9.0\\compressed\\2x1ogq2u7q-a62lhptvq9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:29:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a62lhptvq9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Style.css",
+      "AssetFile": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\obj\\Debug\\net9.0\\compressed\\2x1ogq2u7q-a62lhptvq9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002695417790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:29:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Style.css",
+      "AssetFile": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\wwwroot\\css\\Style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:29:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vrymraDZhMHeDDLaiUNU/tnq8mm7+3vHwfAT0YHXfOI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Style.css.gz",
+      "AssetFile": "C:\\Users\\Tobi Odetola\\OneDrive\\Documents\\Laptop maintenance\\Student Registration Platform\\Student Registration Platform\\obj\\Debug\\net9.0\\compressed\\2x1ogq2u7q-a62lhptvq9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 10:29:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VKlAsE75uen1X4EOUs3jn8NNQQj3+jrBQTtxAWF4RP0="
+        }
+      ]
+    }
+  ]
+}

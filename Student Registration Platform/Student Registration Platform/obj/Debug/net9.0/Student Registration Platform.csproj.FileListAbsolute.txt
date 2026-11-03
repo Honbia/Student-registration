@@ -1,0 +1,38 @@
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.csproj.AssemblyReference.cache
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.AssemblyInfoInputs.cache
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.AssemblyInfo.cs
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.csproj.CoreCompileInputs.cache
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\appsettings.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.staticwebassets.endpoints.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.exe
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.deps.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.runtimeconfig.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.dll
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.pdb
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\scopedcss\bundle\Student Registration Platform.styles.css
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets\msbuild.Student Registration Platform.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets\msbuild.Student Registration Platform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets\msbuild.build.Student Registration Platform.props
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Student Registration Platform.props
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Student Registration Platform.props
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student .D2ABE4DA.Up2Date
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.dll
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\refint\Student Registration Platform.dll
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.pdb
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.genruntimeconfig.cache
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\ref\Student Registration Platform.dll
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\bin\Debug\net9.0\Student Registration Platform.staticwebassets.runtime.json
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.RazorAssemblyInfo.cache
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\Student Registration Platform.RazorAssemblyInfo.cs
+C:\Users\Tobi Odetola\OneDrive\Documents\Laptop maintenance\Student Registration Platform\Student Registration Platform\obj\Debug\net9.0\compressed\2x1ogq2u7q-a62lhptvq9.gz

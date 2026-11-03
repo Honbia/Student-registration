@@ -1,0 +1,44 @@
+﻿@model StudentRegistrationApp.Models.Student
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <h1>Student Registration</h1>
+
+    @if (ViewBag.Error != null)
+    {
+        <p class="error">@ViewBag.Error</p>
+    }
+
+    <form method="post">
+        <label>Full Name:</label>
+        <input name="Name" required /><br><br>
+
+        <label>Date of Birth:</label>
+        <input type="date" name="Dob" required /><br><br>
+
+        <label>Department:</label>
+        <select name="Department" required>
+            <option value="">-- Select Department --</option>
+            @{
+                string[] departments = {
+            "Computer Science", "Information Technology", "Software Engineering",
+            "Cyber Security", "Data Science", "AI", "Web Development", "Mobile Dev",
+            "Cloud", "Networking", "Database", "Game Dev", "Marketing", "Graphics",
+            "Data Analytics", "Data Engineering", "IT Support", "DevOps"
+                };
+                foreach (var dept in departments)
+                {
+                    <option value="@dept">@dept</option>
+                }
+            }
+        </select><br><br>
+
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>
